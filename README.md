@@ -1,6 +1,6 @@
 AltDrag application coded by [@stefanstundin](https://github.com/stefansundin/altdrag).  
 
-This repository contains updated build options to enable some of the `gcc/ld` hardening options.
+This repository contains updated build options to enable some of the `gcc/ld` hardening.
 
 ```powershell
 > Get-PESecurity -Dir .
