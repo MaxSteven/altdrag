@@ -1,3 +1,10 @@
+---------
+
+**UPDATE:** Changes were merged in https://github.com/RamonUnch/AltDrag, please use Raymond's repository instead of this one.
+
+---------
+
+
 AltDrag application coded by [@stefanstundin](https://github.com/stefansundin/altdrag).  
 
 This repository contains updated build options to enable some of the `gcc/ld` hardening.
